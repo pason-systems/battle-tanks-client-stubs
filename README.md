@@ -20,7 +20,7 @@ Within these clients you're shown how to:
 * Parse a JSON message  
 
 What to do next:
-* Start receiving and parsing game piece and board state messages from the publish/subscribe socket  
+* Start receiving and parsing game state messages from the publish/subscribe socket  
 * Create an algorithm and send game moves back to the server  
 
 Good luck!
