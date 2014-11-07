@@ -1,4 +1,4 @@
-# Python Battle Tetris Sample Client
+# Python Battle Tanks Sample Client
 
 ## Running the Client
 

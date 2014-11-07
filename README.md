@@ -1,4 +1,4 @@
-# Battle Tetris Sample Clients
+# Battle Tanks Sample Clients
 
 These clients all do the same thing. The only difference is the language.
 

@@ -1,4 +1,4 @@
-# C++ Battle Tetris Sample Client
+# C++ Battle Tanks Sample Client
 
 ## Dependencies
 
