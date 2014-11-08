@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/usr/local/share/java/zmq.jar"/>
+	<classpathentry kind="lib" path="org/matrix/EJML-core-0.26-sources.jar"/>
+	<classpathentry kind="lib" path="org/matrix/EJML-core-0.26.jar"/>
+	<classpathentry kind="lib" path="org/matrix/EJML-equation-0.26-sources.jar"/>
+	<classpathentry kind="lib" path="org/matrix/EJML-equation-0.26.jar"/>
+	<classpathentry kind="lib" path="org/matrix/EJML-experimental-0.26-sources.jar"/>
+	<classpathentry kind="lib" path="org/matrix/EJML-experimental-0.26.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
